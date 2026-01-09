@@ -56,25 +56,24 @@ GIS Developer • GIS Solution Engineer • 3D visualizer • Environmental Plan
   🎓 Education
 </h2>
 
-<table align="center" style="border-collapse: collapse; text-align: center;">
+
+<table align="center" style="width: 100%; border-collapse: collapse; text-align: center;">
   <tr>
     <!-- Cairo University -->
-    <td style="padding: 20px;">
+    <td style="width: 50%; text-align: center; padding: 20px;">
       <img src="https://cu.edu.eg/ar/images/demo/slideshow/img1.png" alt="Cairo University Logo" width="80" style="height:auto; margin-bottom: 10px;">
       <div style="font-weight: 600;">Cairo University</div>
       <div style="font-size: 14px; color: gray;">B.Sc in Urban Planning</div>
     </td>
-        <td style="padding: 20px;">
+    <td style="width: 50%; text-align: center; padding: 20px;">
       <img src="https://knowledgecity.iti.gov.eg/assets/images/header/favicon.png" alt="ITI Logo" width="80" style="height:auto; margin-bottom: 10px;">
       <div style="font-weight: 600;">Information Technology Institute (ITI)</div>
       <div style="font-size: 14px; color: gray;">9-Month Intensive Track 46</div>
     </td>
 
- 
-
-    
   </tr>
 </table>
+
 
 <h2>🧠 About Me</h2>
 
