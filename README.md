@@ -56,12 +56,7 @@ GIS Developer • GIS Solution Engineer • 3D visualizer • Environmental Plan
   🎓 Education
 </h2>
 
-<!-- Education Section -->
-<h2 align="center" style="margin-top: 40px; margin-bottom: 20px; font-size: 24px; font-weight: bold; text-transform: uppercase; letter-spacing: 2px;">
-  🎓 Education
-</h2>
-
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 60px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 80px; flex-wrap: nowrap;">
 
   <!-- Cairo University -->
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
@@ -78,6 +73,7 @@ GIS Developer • GIS Solution Engineer • 3D visualizer • Environmental Plan
   </div>
 
 </div>
+
 
 
 <h2>🧠 About Me</h2>
