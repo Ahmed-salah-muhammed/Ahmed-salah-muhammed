@@ -1,6 +1,5 @@
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; ">
+<div">
   <!-- Cairo University Logo -->
-  <img src="https://cu.edu.eg/ar/images/demo/slideshow/img1.png" alt="Cairo University Logo" width="80" style="height:auto;">
   
   <!-- Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=header&text=Ahmed%20Salah%20Muhammed&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Ahmed Salah Muhammed" style="height:auto; max-width:400px;">
@@ -62,6 +61,19 @@ GIS Developer • GIS Solution Engineer • 3D visualizer • Environmental Plan
     <img src="https://img.shields.io/badge/CityEngine-795548?style=for-the-badge" title="CityEngine"/>
   </p>
 </p>
+<div align="center" style="margin-top: 20px; display: flex; flex-direction: column; align-items: center; gap: 12px;">
+  <h2 style="font-size: 20px; font-weight: 600; color: #ffffff;">
+    🎓 Education & Graduation
+  </h2>
+
+  <p style="font-size: 16px; color: #c0c0c0; margin: 0;">
+    • Graduated from <strong>Information Technology Institute (ITI)</strong>, 9-Month Intake 46
+  </p>
+
+  <p style="font-size: 16px; color: #c0c0c0; margin: 0;">
+    • Graduated from <strong>Cairo University</strong>, <em>Urban Planning</em>
+  </p>
+</div>
 
 <h2>🧠 About Me</h2>
 
