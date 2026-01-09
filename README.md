@@ -17,21 +17,51 @@ GIS Developer • Web Developer • Web GIS Engineer 🌍
 ⚙️ GIS Automation &nbsp;•&nbsp;
 🏙 Smart City Systems
 </p>
-<h2 align="center">🗺 GIS Core Stack</h2>
+<h2 align="center">Tools I Use</h2>
+
+<h2 align="center">🌟 My Tech Stack & Tools</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Esri-0079C1?style=for-the-badge&logo=esri&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ArcGIS_Pro-005A9C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ArcGIS_Online-5A9BD5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ArcGIS_Enterprise-1F5DAA?style=for-the-badge"/>
+  <!-- Web / Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs"/>
+  
+  <!-- Backend / Programming -->
+  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,java"/>
+  
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb"/>
+  
+  <!-- GIS / Spatial -->
+  <img src="https://img.shields.io/badge/ArcGIS_Pro-0079C1?style=flat-square&logo=esri&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArcGIS_Online-5A9BD5?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ArcGIS_Enterprise-1F5DAA?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ArcPy-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArcGIS_API_for_JavaScript-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ArcGIS_API_for_Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostGIS-2C7BE5?style=flat-square"/>
+  <img src="https://img.shields.io/badge/GDAL-4CAF50?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Survey123-2E7D32?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Field_Maps-4CAF50?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Experience_Builder-673AB7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CityEngine-795548?style=flat-square"/>
+  
+  <!-- DevOps / Tools -->
+  <img src="https://skillicons.dev/icons?i=git,docker,githubactions,heroku,webpack,npm,prettier"/>
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostGIS-2C7BE5?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/GDAL/OGR-4CAF50?style=for-the-badge"/>
 </p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Esri-0079C1?style=for-the-badge&logo=esri&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArcGIS_Pro-005A9C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ArcGIS_Online-5A9BD5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ArcGIS_Enterprise-1F5DAA?style=for-the-badge"/>
+</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,cs,dotnet,python,postgresql" />
 </p>
@@ -63,14 +93,8 @@ to deliver scalable solutions for smart cities, urban analysis, and spatial data
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 </p>
-<h2>🎯 Career Objective</h2>
-
-<p>
-Seeking a <b>GIS / Web GIS Developer</b> role to build intelligent web-based spatial systems
-using modern web technologies and the Esri ecosystem.
-</p>
 <!-- ===================== CONTACT / LINKS ===================== -->
-<h2 align="center">📫 Connect With Me</h2>
+<h2>📫 Connect With Me</h2>
 
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME" target="_blank">
