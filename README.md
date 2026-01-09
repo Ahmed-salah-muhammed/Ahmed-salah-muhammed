@@ -64,13 +64,13 @@ GIS Developer • GIS Solution Engineer • 3D visualizer • Environmental Plan
   <tr>
     <td style="width: 50%; text-align: center; padding: 20px;">
       <img src="https://cu.edu.eg/ar/images/demo/slideshow/img1.png" alt="Cairo University Logo" width="80" style="height:auto; margin-bottom: 10px;">
-      <div style="font-weight: 600; text-align: center">Cairo University</div>
-      <div style="font-size: 14px; color: gray; text-align: center">B.Sc in Urban Planning</div>
+      <div style="font-weight: 600;">Cairo University</div>
+      <div style="font-size: 14px; color: gray; ">B.Sc in Urban Planning</div>
     </td>
     <td style="width: 50%; text-align: center; padding: 20px;">
       <img src="https://knowledgecity.iti.gov.eg/assets/images/header/favicon.png" alt="ITI Logo" width="80" style="height:auto; margin-bottom: 10px;">
       <div style="font-weight: 600; text-align: center">Information Technology Institute (ITI)</div>
-      <div style="font-size: 14px; color: gray; text-align: center">9-Month Professional Track 46</div>
+      <div style="font-size: 14px; color: gray;">9-Month Professional Track Intack 46</div>
     </td>
   </tr>
 </table>
