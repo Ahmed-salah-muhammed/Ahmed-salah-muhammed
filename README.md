@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Ahmed%20Refaat&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
 <h3 align="center">
-GIS Developer • ITI 9-month Student • Junior GIS Solution Engineer • 3D visualizer • Environmental Planner
+GIS Developer • GIS Solution Engineer • 3D visualizer • Environmental Planner
 </h3>
 
 <p align="center">
@@ -15,8 +15,7 @@ GIS Developer • ITI 9-month Student • Junior GIS Solution Engineer • 3D vi
 ⚙️ GIS Automation &nbsp;•&nbsp;
 🏙 Smart City Systems
 </p>
-<h2 align="center">Tools I Use</h2>
-<h2 align="center">🌟 Mega Tech Stack & GIS Tools</h2>
+<h2>🌟 Mega Tech Stack & GIS Tools</h2>
 
 <p align="center">
   <!-- Web / Frontend -->
@@ -26,8 +25,6 @@ GIS Developer • ITI 9-month Student • Junior GIS Solution Engineer • 3D vi
   <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind"/>
   <img src="https://skillicons.dev/icons?i=react" title="React"/>
   <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js"/>
-  <img src="https://skillicons.dev/icons?i=angular,vue" title="Angular & Vue"/>
-
   <!-- Backend / Programming -->
   <img src="https://skillicons.dev/icons?i=python,cs,dotnet,java,php" title="Python / C# / .NET / Java / PHP"/>
   <img src="https://skillicons.dev/icons?i=go,rust" title="Go / Rust"/>
@@ -36,7 +33,7 @@ GIS Developer • ITI 9-month Student • Junior GIS Solution Engineer • 3D vi
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb,redis" title="PostgreSQL / MySQL / SQLite / MongoDB / Redis"/>
   
   <!-- DevOps / Tools -->
-  <img src="https://skillicons.dev/icons?i=git,docker,githubactions,heroku,webpack,npm,prettier,jenkins,linux,vscode" title="DevOps & Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,docker,githubactions,heroku,webpack,npm,jenkins,linux,vscode" title="DevOps & Tools"/>
   
   <!-- GIS / Esri / QGIS LAST -->
   <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" title="QGIS"/>
@@ -66,32 +63,24 @@ specializing in building <b>Web-based GIS applications</b> and intelligent spati
 I combine <b>modern web technologies</b> with <b>enterprise GIS platforms</b>
 to deliver scalable solutions for smart cities, urban analysis, and spatial data platforms.
 </p>
-<h3>🌐 Frontend & Web</h3>
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-</p>
+
 <!-- ===================== CONTACT / LINKS ===================== -->
 <h2>📫 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/Ahmed-salah-muhammed" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINK" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmed-salah-395381234/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/YOUR_LINK" target="_blank">
+  <a href="https://x.com/Ahmed219013" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://medium.com/@YOUR_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  <a href="https://www.reddit.com/user/True-Creme-8771/" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL" target="_blank">
+  <a href="mailto:ahmedsalah219013@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
