@@ -56,22 +56,29 @@ GIS Developer • GIS Solution Engineer • 3D visualizer • Environmental Plan
   🎓 Education
 </h2>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap; margin-bottom: 30px;">
-  
+<!-- Education Section -->
+<h2 align="center" style="margin-top: 40px; margin-bottom: 20px; font-size: 24px; font-weight: bold; text-transform: uppercase; letter-spacing: 2px;">
+  🎓 Education
+</h2>
+
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 60px; flex-wrap: wrap;">
+
   <!-- Cairo University -->
-  <div style="text-align: center;">
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
     <img src="https://cu.edu.eg/ar/images/demo/slideshow/img1.png" alt="Cairo University Logo" width="80" style="height:auto; margin-bottom: 10px;">
-    <p style="margin: 0; font-weight: 600;">Cairo University</p>
-    <p style="margin: 0; font-size: 14px; color: gray;">B.Sc in Urban Planning</p>
+    <span style="font-weight: 600;">Cairo University</span>
+    <span style="font-size: 14px; color: gray;">B.Sc in Urban Planning</span>
   </div>
-  
+
   <!-- ITI -->
-  <div style="text-align: center;">
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
     <img src="https://knowledgecity.iti.gov.eg/assets/images/header/favicon.png" alt="ITI Logo" width="80" style="height:auto; margin-bottom: 10px;">
-    <p style="margin: 0; font-weight: 600;">Information Technology Institute (ITI)</p>
-    <p style="margin: 0; font-size: 14px; color: gray;">9-Month Intensive Track 46</p>
+    <span style="font-weight: 600;">Information Technology Institute (ITI)</span>
+    <span style="font-size: 14px; color: gray;">9-Month Intensive Track 46</span>
   </div>
+
 </div>
+
 
 <h2>🧠 About Me</h2>
 
