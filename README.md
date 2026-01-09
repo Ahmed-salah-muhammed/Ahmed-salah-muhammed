@@ -2,13 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Ahmed%20Salah%20Muhammed&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<p align="center" style="margin-top: 12px;">
+<p align="center" style="margin-top:12px;">
   <!-- Cairo University logo -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Cairo_University_Logo.png" alt="Cairo University Logo" width="100" style="margin-right: 20px;">
+  <img src="https://latestlogo.com/logos/cairo-university/logo.png" alt="Cairo University Logo" width="90" style="margin-right:20px;">
 
   <!-- ITI logo -->
-  <img src="https://wuzzuf.net/jobseekers/assets/organization/logo/57238/0_logo_57238.png" alt="ITI Egypt Logo" width="100">
+  <img src="https://iti.gov.eg/wp-content/uploads/202x/ITI-logo.png" alt="ITI Logo" width="90">
 </p>
+
 
 <h2 align="center">
 GIS Developer • GIS Solution Engineer • 3D visualizer • Environmental Planner
