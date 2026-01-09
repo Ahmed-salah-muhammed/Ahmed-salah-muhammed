@@ -26,7 +26,7 @@ GIS Developer • GIS Solution Engineer • 3D visualizer • Environmental Plan
   <img src="https://skillicons.dev/icons?i=react" title="React"/>
   <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js"/>
   <!-- Backend / Programming -->
-  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,java,php" title="Python / C# / .NET "/>
+  <img src="https://skillicons.dev/icons?i=python,cs,dotnet" title="Python / C# / .NET "/>
   
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb,redis" title="PostgreSQL / MySQL / SQLite / MongoDB / Redis"/>
@@ -35,7 +35,7 @@ GIS Developer • GIS Solution Engineer • 3D visualizer • Environmental Plan
   <img src="https://skillicons.dev/icons?i=git,docker,githubactions,heroku,webpack,npm,jenkins,linux,vscode" title="DevOps & Tools"/>
   
   <!-- GIS / Esri / QGIS LAST -->
-  <span></span>
+  <span align="center"></span>
   <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" title="QGIS"/>
   <img src="https://img.shields.io/badge/ArcGIS_Pro-0079C1?style=for-the-badge&logo=esri&logoColor=white" title="ArcGIS Pro"/>
   <img src="https://img.shields.io/badge/ArcGIS_Online-5A9BD5?style=for-the-badge" title="ArcGIS Online"/>
