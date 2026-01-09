@@ -82,10 +82,26 @@ to deliver scalable solutions for smart cities, urban analysis, and spatial data
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=header&animation=fadeIn"
-         style="transform: scaleY(-1);"
-"/>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer&animation=fadeIn"
+       class="shake-footer"/>
+</p>
+
+<style>
+@keyframes shake {
+  0% { transform: translateX(0); }
+  25% { transform: translateX(-5px); }
+  50% { transform: translateX(5px); }
+  75% { transform: translateX(-5px); }
+  100% { transform: translateX(0); }
+}
+
+.shake-footer {
+  display: block;
+  margin: 0 auto;
+  animation: shake 1s infinite;
+}
+</style>
+
 
 </p>
 
