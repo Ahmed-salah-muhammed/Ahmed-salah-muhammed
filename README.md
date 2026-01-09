@@ -1,10 +1,14 @@
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://cu.edu.eg/ar/images/demo/slideshow/img1.png" alt="Cairo University Logo" width="90">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <!-- Cairo University Logo -->
+  <img src="https://cu.edu.eg/ar/images/demo/slideshow/img1.png" alt="Cairo University Logo" width="80" style="height:auto;">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Ahmed%20Salah%20Muhammed&fontSize=42&fontColor=ffffff&animation=fadeIn" width="300">
+  <!-- Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=header&text=Ahmed%20Salah%20Muhammed&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Ahmed Salah Muhammed" style="height:auto; max-width:400px;">
 
-  <img src="https://knowledgecity.iti.gov.eg/assets/images/header/favicon.png" alt="ITI Logo" width="90">
+  <!-- ITI Logo -->
+  <img src="https://knowledgecity.iti.gov.eg/assets/images/header/favicon.png" alt="ITI Logo" width="80" style="height:auto;">
 </div>
+
 
 <h2 align="center">
 GIS Developer • GIS Solution Engineer • 3D visualizer • Environmental Planner
