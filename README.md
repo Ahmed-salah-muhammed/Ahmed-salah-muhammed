@@ -26,8 +26,7 @@ GIS Developer • GIS Solution Engineer • 3D visualizer • Environmental Plan
   <img src="https://skillicons.dev/icons?i=react" title="React"/>
   <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js"/>
   <!-- Backend / Programming -->
-  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,java,php" title="Python / C# / .NET / Java / PHP"/>
-  <img src="https://skillicons.dev/icons?i=go,rust" title="Go / Rust"/>
+  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,java,php" title="Python / C# / .NET "/>
   
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb,redis" title="PostgreSQL / MySQL / SQLite / MongoDB / Redis"/>
@@ -63,23 +62,6 @@ specializing in building <b>Web-based GIS applications</b> and intelligent spati
 I combine <b>modern web technologies</b> with <b>enterprise GIS platforms</b>
 to deliver scalable solutions for smart cities, urban analysis, and spatial data platforms.
 </p>
-<h2 align="center">📈 GitHub Stats</h2>
-
-<p align="center">
-  <!-- General Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-salah-muhammed&show_icons=true&theme=tokyonight" alt="Ahmed's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-salah-muhammed&layout=compact&theme=tokyonight" alt="Ahmed's Top Languages"/>
-</p>
-
-<p align="center">
-  <!-- Trophy Badges -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahmed-salah-muhammed&theme=onedark&no-frame=true" alt="Ahmed's GitHub Trophies"/>
-</p>
-
 <!-- ===================== CONTACT / LINKS ===================== -->
 <h2>📫 Connect With Me</h2>
 
@@ -99,5 +81,8 @@ to deliver scalable solutions for smart cities, urban analysis, and spatial data
   <a href="mailto:ahmedsalah219013@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=30&section=headeranimation=fadeIn"/>
 </p>
 
