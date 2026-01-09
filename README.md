@@ -23,56 +23,48 @@ GIS Developer • Web Developer • Web GIS Engineer 🌍
 
 <p align="center">
   <!-- Web / Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs"/>
+  <img src="https://skillicons.dev/icons?i=html" title="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" title="CSS"/>
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind"/>
+  <img src="https://skillicons.dev/icons?i=react" title="React"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js"/>
   
   <!-- Backend / Programming -->
-  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,java"/>
+  <img src="https://skillicons.dev/icons?i=python" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=cs" title="C#"/>
+  <img src="https://skillicons.dev/icons?i=dotnet" title=".NET"/>
   
   <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb"/>
-  
-  <!-- GIS / Spatial -->
-  <img src="https://img.shields.io/badge/ArcGIS_Pro-0079C1?style=flat-square&logo=esri&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ArcGIS_Online-5A9BD5?style=flat-square"/>
-  <img src="https://img.shields.io/badge/ArcGIS_Enterprise-1F5DAA?style=flat-square"/>
-  <img src="https://img.shields.io/badge/ArcPy-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ArcGIS_API_for_JavaScript-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/ArcGIS_API_for_Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostGIS-2C7BE5?style=flat-square"/>
-  <img src="https://img.shields.io/badge/GDAL-4CAF50?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Survey123-2E7D32?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Field_Maps-4CAF50?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Experience_Builder-673AB7?style=flat-square"/>
-  <img src="https://img.shields.io/badge/CityEngine-795548?style=flat-square"/>
+  <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/>
   
   <!-- DevOps / Tools -->
-  <img src="https://skillicons.dev/icons?i=git,docker,githubactions,heroku,webpack,npm,prettier"/>
+  <img src="https://skillicons.dev/icons?i=git" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions"/>
+  <img src="https://skillicons.dev/icons?i=heroku" title="Heroku"/>
+  <img src="https://skillicons.dev/icons?i=webpack" title="Webpack"/>
+  <img src="https://skillicons.dev/icons?i=npm" title="NPM"/>
+  <img src="https://skillicons.dev/icons?i=prettier" title="Prettier"/>
+  
+  <!-- GIS / Esri / QGIS LAST -->
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" title="QGIS"/>
+  <img src="https://img.shields.io/badge/ArcGIS_Pro-0079C1?style=for-the-badge&logo=esri&logoColor=white" title="ArcGIS Pro"/>
+  <img src="https://img.shields.io/badge/ArcGIS_Online-5A9BD5?style=for-the-badge" title="ArcGIS Online"/>
+  <img src="https://img.shields.io/badge/ArcGIS_Enterprise-1F5DAA?style=for-the-badge" title="ArcGIS Enterprise"/>
+  <img src="https://img.shields.io/badge/ArcPy-3776AB?style=for-the-badge&logo=python&logoColor=white" title="ArcPy"/>
+  <img src="https://img.shields.io/badge/ArcGIS_API_for_JavaScript-000000?style=for-the-badge" title="ArcGIS JS API"/>
+  <img src="https://img.shields.io/badge/ArcGIS_API_for_Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="ArcGIS Python API"/>
+  <img src="https://img.shields.io/badge/PostGIS-2C7BE5?style=for-the-badge" title="PostGIS"/>
+  <img src="https://img.shields.io/badge/GDAL-4CAF50?style=for-the-badge" title="GDAL"/>
+  <img src="https://img.shields.io/badge/Survey123-2E7D32?style=for-the-badge" title="Survey123"/>
+  <img src="https://img.shields.io/badge/Field_Maps-4CAF50?style=for-the-badge" title="Field Maps"/>
+  <img src="https://img.shields.io/badge/Experience_Builder-673AB7?style=for-the-badge" title="Experience Builder"/>
+  <img src="https://img.shields.io/badge/CityEngine-795548?style=for-the-badge" title="CityEngine"/>
 </p>
 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostGIS-2C7BE5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GDAL/OGR-4CAF50?style=for-the-badge"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Esri-0079C1?style=for-the-badge&logo=esri&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ArcGIS_Pro-005A9C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ArcGIS_Online-5A9BD5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ArcGIS_Enterprise-1F5DAA?style=for-the-badge"/>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,cs,dotnet,python,postgresql" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ArcGIS-0079C1?style=for-the-badge&logo=esri&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web_GIS-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Smart_Cities-2c5364?style=for-the-badge"/>
-</p>
-
-<hr/>
 <h2>🧠 About Me</h2>
 
 <p>
