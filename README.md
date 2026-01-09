@@ -1,4 +1,4 @@
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; ">
   <!-- Cairo University Logo -->
   <img src="https://cu.edu.eg/ar/images/demo/slideshow/img1.png" alt="Cairo University Logo" width="80" style="height:auto;">
   
