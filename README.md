@@ -63,7 +63,7 @@ GIS Developer • GIS Solution Engineer • 3D visualizer • Environmental Plan
 <table align="center" style="width: 100%; border-collapse: collapse; text-align: center;">
   <tr>
     <td style="width: 50%; text-align: center; padding: 20px;">
-      <img src="https://cu.edu.eg/ar/images/demo/slideshow/img1.png" alt="Cairo University Logo" width="100" style="height:auto; margin-bottom: 19px;">
+      <img src="https://cu.edu.eg/ar/images/demo/slideshow/img1.png" alt="Cairo University Logo" width="95" style="height:auto; margin-bottom: 19px;">
       <div style="font-weight: 600;">Cairo University</div>
       <div style="font-size: 14px; color: gray; ">B.Sc in Urban Planning</div>
     </td>
