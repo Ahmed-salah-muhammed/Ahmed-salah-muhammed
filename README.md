@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://www.euni.de/tools/jobpopup.php?lang=en&option=showJobs&jobid=478241&jobtyp=5&jtyp=3&university=Cairo+University&country=EG&sid=70321&name=Diploma+of+Biotechnology" alt="Cairo University Logo"     width="90" style="margin-right:20px;">
+  <img src="https://cu.edu.eg/ar/images/demo/slideshow/img1.png" alt="Cairo University Logo"     width="90" style="margin-right:20px;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Ahmed%20Salah%20Muhammed&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
   <img src="https://knowledgecity.iti.gov.eg/assets/images/header/favicon.png" alt="ITI Logo" width="90">
 </p>  <!-- Cairo University logo -->
