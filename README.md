@@ -36,20 +36,22 @@ GIS Developer • GIS Solution Engineer • 3D visualizer • Environmental Plan
   
   <!-- GIS / Esri / QGIS LAST -->
   <span align="center"></span>
-  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" title="QGIS"/>
-  <img src="https://img.shields.io/badge/ArcGIS_Pro-0079C1?style=for-the-badge&logo=esri&logoColor=white" title="ArcGIS Pro"/>
-  <img src="https://img.shields.io/badge/ArcGIS_Online-5A9BD5?style=for-the-badge" title="ArcGIS Online"/>
-  <img src="https://img.shields.io/badge/ArcGIS_Enterprise-1F5DAA?style=for-the-badge" title="ArcGIS Enterprise"/>
-  <img src="https://img.shields.io/badge/ArcPy-3776AB?style=for-the-badge&logo=python&logoColor=white" title="ArcPy"/>
-  <img src="https://img.shields.io/badge/ArcGIS_API_for_JavaScript-000000?style=for-the-badge" title="ArcGIS JS API"/>
-  <img src="https://img.shields.io/badge/ArcGIS_API_for_Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="ArcGIS Python API"/>
-  <img src="https://img.shields.io/badge/PostGIS-2C7BE5?style=for-the-badge" title="PostGIS"/>
-  <img src="https://img.shields.io/badge/GDAL-4CAF50?style=for-the-badge" title="GDAL"/>
-  <img src="https://img.shields.io/badge/Survey123-2E7D32?style=for-the-badge" title="Survey123"/>
-  <img src="https://img.shields.io/badge/Field_Maps-4CAF50?style=for-the-badge" title="Field Maps"/>
-  <img src="https://img.shields.io/badge/Experience_Builder-673AB7?style=for-the-badge" title="Experience Builder"/>
-  <img src="https://img.shields.io/badge/Web_AppBuilder-009688?style=for-the-badge" title="Web AppBuilder"/>
-  <img src="https://img.shields.io/badge/CityEngine-795548?style=for-the-badge" title="CityEngine"/>
+  <p align="center">
+    <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" title="QGIS"/>
+    <img src="https://img.shields.io/badge/ArcGIS_Pro-0079C1?style=for-the-badge&logo=esri&logoColor=white" title="ArcGIS Pro"/>
+    <img src="https://img.shields.io/badge/ArcGIS_Online-5A9BD5?style=for-the-badge" title="ArcGIS Online"/>
+    <img src="https://img.shields.io/badge/ArcGIS_Enterprise-1F5DAA?style=for-the-badge" title="ArcGIS Enterprise"/>
+    <img src="https://img.shields.io/badge/ArcPy-3776AB?style=for-the-badge&logo=python&logoColor=white" title="ArcPy"/>
+    <img src="https://img.shields.io/badge/ArcGIS_API_for_JavaScript-000000?style=for-the-badge" title="ArcGIS JS API"/>
+    <img src="https://img.shields.io/badge/ArcGIS_API_for_Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="ArcGIS Python API"/>
+    <img src="https://img.shields.io/badge/PostGIS-2C7BE5?style=for-the-badge" title="PostGIS"/>
+    <img src="https://img.shields.io/badge/GDAL-4CAF50?style=for-the-badge" title="GDAL"/>
+    <img src="https://img.shields.io/badge/Survey123-2E7D32?style=for-the-badge" title="Survey123"/>
+    <img src="https://img.shields.io/badge/Field_Maps-4CAF50?style=for-the-badge" title="Field Maps"/>
+    <img src="https://img.shields.io/badge/Experience_Builder-673AB7?style=for-the-badge" title="Experience Builder"/>
+    <img src="https://img.shields.io/badge/Web_AppBuilder-009688?style=for-the-badge" title="Web AppBuilder"/>
+    <img src="https://img.shields.io/badge/CityEngine-795548?style=for-the-badge" title="CityEngine"/>
+  </p>
 </p>
 
 <h2>🧠 About Me</h2>
