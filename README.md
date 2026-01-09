@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Ahmed%20Salah%20Muhammed&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
-<h3 align="center">
+<h2 align="center">
 GIS Developer • GIS Solution Engineer • 3D visualizer • Environmental Planner
-</h3>
+</h2>
 
 <p align="center">
 <b>Building intelligent web & GIS systems that turn spatial data into real decisions</b>
@@ -62,6 +62,23 @@ specializing in building <b>Web-based GIS applications</b> and intelligent spati
 <p>
 I combine <b>modern web technologies</b> with <b>enterprise GIS platforms</b>
 to deliver scalable solutions for smart cities, urban analysis, and spatial data platforms.
+</p>
+<!-- ===================== GITHUB STATS ===================== -->
+<h2 align="center">📈 GitHub Stats</h2>
+
+<p align="center">
+  <!-- General Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-salah-muhammed&show_icons=true&theme=tokyonight" alt="Ahmed's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-salah-muhammed&layout=compact&theme=tokyonight" alt="Ahmed's Top Languages"/>
+</p>
+
+<p align="center">
+  <!-- Trophy Badges -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahmed-salah-muhammed&theme=onedark&no-frame=true" alt="Ahmed's GitHub Trophies"/>
 </p>
 
 <!-- ===================== CONTACT / LINKS ===================== -->
