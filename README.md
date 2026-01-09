@@ -7,7 +7,7 @@
   <img src="https://latestlogo.com/logos/cairo-university/logo.png" alt="Cairo University Logo" width="90" style="margin-right:20px;">
 
   <!-- ITI logo -->
-  <img src="https://iti.gov.eg/wp-content/uploads/202x/ITI-logo.png" alt="ITI Logo" width="90">
+  <img src="https://knowledgecity.iti.gov.eg/assets/images/header/favicon.png" alt="ITI Logo" width="90">
 </p>
 
 
