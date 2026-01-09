@@ -17,6 +17,20 @@ GIS Developer • Web Developer • Web GIS Engineer 🌍
 ⚙️ GIS Automation &nbsp;•&nbsp;
 🏙 Smart City Systems
 </p>
+<h2 align="center">🗺 GIS Core Stack</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Esri-0079C1?style=for-the-badge&logo=esri&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArcGIS_Pro-005A9C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ArcGIS_Online-5A9BD5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ArcGIS_Enterprise-1F5DAA?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostGIS-2C7BE5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GDAL/OGR-4CAF50?style=for-the-badge"/>
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,cs,dotnet,python,postgresql" />
