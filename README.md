@@ -63,7 +63,6 @@ specializing in building <b>Web-based GIS applications</b> and intelligent spati
 I combine <b>modern web technologies</b> with <b>enterprise GIS platforms</b>
 to deliver scalable solutions for smart cities, urban analysis, and spatial data platforms.
 </p>
-<!-- ===================== GITHUB STATS ===================== -->
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
