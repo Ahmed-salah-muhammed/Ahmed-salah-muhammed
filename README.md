@@ -66,6 +66,9 @@ to deliver scalable solutions for smart cities, urban analysis, and spatial data
 <h2>📫 Connect With Me</h2>
 
 <p align="center">
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=headeranimation=fadeIn"/>
+  </p>
   <a href="https://github.com/Ahmed-salah-muhammed" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -82,7 +85,5 @@ to deliver scalable solutions for smart cities, urban analysis, and spatial data
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=300&section=headeranimation=fadeIn"/>
-</p>
+
 
