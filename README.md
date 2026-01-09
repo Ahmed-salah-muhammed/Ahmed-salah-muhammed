@@ -1,15 +1,13 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Ahmed%20Refaat&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
-
 <h3 align="center">
-GIS Developer • Web Developer • Web GIS Engineer 🌍
+GIS Developer • ITI 9-month Student • Junior GIS Solution Engineer • 3D visualizer • Environmental Planner
 </h3>
 
 <p align="center">
 <b>Building intelligent web & GIS systems that turn spatial data into real decisions</b>
 </p>
-<h2 align="center">🚀 What I Build</h2>
 
 <p align="center">
 🌐 Web Applications & Dashboards &nbsp;•&nbsp;
@@ -18,8 +16,7 @@ GIS Developer • Web Developer • Web GIS Engineer 🌍
 🏙 Smart City Systems
 </p>
 <h2 align="center">Tools I Use</h2>
-
-<h2 align="center">🌟 My Tech Stack & Tools</h2>
+<h2 align="center">🌟 Mega Tech Stack & GIS Tools</h2>
 
 <p align="center">
   <!-- Web / Frontend -->
@@ -29,25 +26,17 @@ GIS Developer • Web Developer • Web GIS Engineer 🌍
   <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind"/>
   <img src="https://skillicons.dev/icons?i=react" title="React"/>
   <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js"/>
-  
+  <img src="https://skillicons.dev/icons?i=angular,vue" title="Angular & Vue"/>
+
   <!-- Backend / Programming -->
-  <img src="https://skillicons.dev/icons?i=python" title="Python"/>
-  <img src="https://skillicons.dev/icons?i=cs" title="C#"/>
-  <img src="https://skillicons.dev/icons?i=dotnet" title=".NET"/>
+  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,java,php" title="Python / C# / .NET / Java / PHP"/>
+  <img src="https://skillicons.dev/icons?i=go,rust" title="Go / Rust"/>
   
   <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL"/>
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb,redis" title="PostgreSQL / MySQL / SQLite / MongoDB / Redis"/>
   
   <!-- DevOps / Tools -->
-  <img src="https://skillicons.dev/icons?i=git" title="Git"/>
-  <img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
-  <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions"/>
-  <img src="https://skillicons.dev/icons?i=heroku" title="Heroku"/>
-  <img src="https://skillicons.dev/icons?i=webpack" title="Webpack"/>
-  <img src="https://skillicons.dev/icons?i=npm" title="NPM"/>
-  <img src="https://skillicons.dev/icons?i=prettier" title="Prettier"/>
+  <img src="https://skillicons.dev/icons?i=git,docker,githubactions,heroku,webpack,npm,prettier,jenkins,linux,vscode" title="DevOps & Tools"/>
   
   <!-- GIS / Esri / QGIS LAST -->
   <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" title="QGIS"/>
@@ -62,6 +51,7 @@ GIS Developer • Web Developer • Web GIS Engineer 🌍
   <img src="https://img.shields.io/badge/Survey123-2E7D32?style=for-the-badge" title="Survey123"/>
   <img src="https://img.shields.io/badge/Field_Maps-4CAF50?style=for-the-badge" title="Field Maps"/>
   <img src="https://img.shields.io/badge/Experience_Builder-673AB7?style=for-the-badge" title="Experience Builder"/>
+  <img src="https://img.shields.io/badge/Web_AppBuilder-009688?style=for-the-badge" title="Web AppBuilder"/>
   <img src="https://img.shields.io/badge/CityEngine-795548?style=for-the-badge" title="CityEngine"/>
 </p>
 
