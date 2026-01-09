@@ -1,13 +1,3 @@
-<div">
-  <!-- Cairo University Logo -->
-  
-  <!-- Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=header&text=Ahmed%20Salah%20Muhammed&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Ahmed Salah Muhammed" style="height:auto; max-width:400px;">
-
-  <!-- ITI Logo -->
-  <img src="https://knowledgecity.iti.gov.eg/assets/images/header/favicon.png" alt="ITI Logo" width="80" style="height:auto;">
-</div>
-
 
 <h2 align="center">
 GIS Developer • GIS Solution Engineer • 3D visualizer • Environmental Planner
@@ -61,18 +51,26 @@ GIS Developer • GIS Solution Engineer • 3D visualizer • Environmental Plan
     <img src="https://img.shields.io/badge/CityEngine-795548?style=for-the-badge" title="CityEngine"/>
   </p>
 </p>
-<div align="center" style="margin-top: 20px; display: flex; flex-direction: column; align-items: center; gap: 12px;">
-  <h2 style="font-size: 20px; font-weight: 600; color: #ffffff;">
-    🎓 Education & Graduation
-  </h2>
+<!-- Education Section -->
+<h2 align="center" style="margin-top: 40px; margin-bottom: 20px; font-size: 24px; font-weight: bold; text-transform: uppercase; letter-spacing: 2px;">
+  🎓 Education
+</h2>
 
-  <p style="font-size: 16px; color: #c0c0c0; margin: 0;">
-    • Graduated from <strong>Information Technology Institute (ITI)</strong>, 9-Month Intake 46
-  </p>
-
-  <p style="font-size: 16px; color: #c0c0c0; margin: 0;">
-    • Graduated from <strong>Cairo University</strong>, <em>Urban Planning</em>
-  </p>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap; margin-bottom: 30px;">
+  
+  <!-- Cairo University -->
+  <div style="text-align: center;">
+    <img src="https://cu.edu.eg/ar/images/demo/slideshow/img1.png" alt="Cairo University Logo" width="80" style="height:auto; margin-bottom: 10px;">
+    <p style="margin: 0; font-weight: 600;">Cairo University</p>
+    <p style="margin: 0; font-size: 14px; color: gray;">B.Sc in Urban Planning</p>
+  </div>
+  
+  <!-- ITI -->
+  <div style="text-align: center;">
+    <img src="https://knowledgecity.iti.gov.eg/assets/images/header/favicon.png" alt="ITI Logo" width="80" style="height:auto; margin-bottom: 10px;">
+    <p style="margin: 0; font-weight: 600;">Information Technology Institute (ITI)</p>
+    <p style="margin: 0; font-size: 14px; color: gray;">9-Month Intensive Track 46</p>
+  </div>
 </div>
 
 <h2>🧠 About Me</h2>
