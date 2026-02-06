@@ -25,16 +25,14 @@ GIS Developer • GIS Solution Engineer • 3D visualizer • Environmental Plan
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
   <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind"/>
   <img src="https://skillicons.dev/icons?i=react" title="React"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js"/>
+  <!-- <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js"/> -->
   <!-- Backend / Programming -->
-  <img src="https://skillicons.dev/icons?i=python,cs,dotnet" title="Python / C# / .NET "/>
+  <img src="https://skillicons.dev/icons?i=python,cs" title="Python / C# >
   
   <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb,redis" title="PostgreSQL / MySQL / SQLite / MongoDB / Redis"/>
+  <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL"/>
   
-  <!-- DevOps / Tools -->
-  <img src="https://skillicons.dev/icons?i=git,docker,githubactions,heroku,webpack,npm,jenkins,linux,vscode" title="DevOps & Tools"/>
-  
+  <!-- DevOps / Tools -->  
   <!-- GIS / Esri / QGIS LAST -->
   <span align="center"></span>
   <p align="center">
