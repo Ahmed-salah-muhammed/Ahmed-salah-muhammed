@@ -66,7 +66,7 @@ GIS Developer • GIS Solution Engineer • 3D visualizer • Environmental Plan
       <div style="font-size: 14px; color: gray; ">B.Sc in Urban Planning</div>
     </td>
     <td style="width: 50%; text-align: center; padding: 20px;">
-      <img src="https://knowledgecity.iti.gov.eg/assets/images/header/favicon.png" alt="ITI Logo" width="80" style="height:auto; margin-bottom: 10px;">
+      <img src="https://iti.gov.eg/assets/images/ColoredLogo.svg" alt="ITI Logo" width="80" style="height:auto; margin-bottom: 10px;">
       <div style="font-weight: 600">Information Technology Institute (ITI)</div>
       <div style="font-size: 14px; color: gray;">9-Month Professional Track Intack-46</div>
     </td>
