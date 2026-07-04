@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">
-GIS Developer • GIS Solution Engineer • 3D visualizer • Environmental Planner
+GIS Developer • full-stack Developer
 </h2>
 
 <p align="center">
