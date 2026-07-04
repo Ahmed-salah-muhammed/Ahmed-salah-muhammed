@@ -61,7 +61,7 @@ GIS Developer • full-stack Developer
 <table align="center" style="width: 100%; border-collapse: collapse; text-align: center;">
   <tr>
     <td style="width: 50%; text-align: center; padding: 20px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Cairo_University_new_logo.png/960px-Cairo_University_new_logo.png" alt="Cairo University Logo" width="40" style="height:auto; margin-bottom: 19px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Cairo_University_new_logo.png/960px-Cairo_University_new_logo.png" alt="Cairo University Logo" width="70" style="height:auto; margin-bottom: 19px;">
       <div style="font-weight: 600;">Cairo University</div>
       <div style="font-size: 14px; color: gray; ">B.Sc in Urban Planning</div>
     </td>
